@@ -5,8 +5,7 @@
 * In order to start the application, a MongoDB database is required.
 * The application contains a docker-compose file which can be used to start a MongoDB database with URI=mongodb://localhost:27017. 
 This requires docker-compose to be installed (e.g. with Docker Desktop)
-* In order to run the application in IntelliJ, annotation processing needs to be enabled (for Lombok
-* )
+* In order to run the application in IntelliJ, annotation processing needs to be enabled (for Lombok)
 
 ## Setup
 * Make sure a MongoDB database is available
